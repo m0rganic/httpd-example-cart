@@ -1,0 +1,7 @@
+[Fri Jun 28 15:01:34 2013] [notice] SELinux policy enabled; httpd running as context unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
+[Fri Jun 28 15:01:34 2013] [error] (2)No such file or directory: mod_mime_magic: can't read magic file /home/vagrant/httpd-example/conf/magic
+[Fri Jun 28 15:01:35 2013] [error] (2)No such file or directory: mod_mime_magic: can't read magic file /home/vagrant/httpd-example/conf/magic
+[Fri Jun 28 15:01:35 2013] [notice] Digest: generating secret for digest authentication ...
+[Fri Jun 28 15:01:35 2013] [notice] Digest: done
+[Fri Jun 28 15:01:35 2013] [notice] Apache/2.2.23 (Unix) DAV/2 configured -- resuming normal operations
+[Fri Jun 28 15:02:06 2013] [error] [client 127.0.0.1] Directory index forbidden by Options directive: /home/vagrant/httpd-example/html/
